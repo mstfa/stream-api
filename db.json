@@ -14,6 +14,12 @@
       "title": "Stream 1",
       "description": "Description Stream 1",
       "id": 3
+    },
+    {
+      "title": "Strem wonderful",
+      "description": "Really wonderful stream",
+      "userId": "102463123745543424149",
+      "id": 4
     }
   ]
 }
